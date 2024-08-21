@@ -24,9 +24,9 @@ const Banner = () => {
          {/* Download Button */}
         <a
           href="assets/Shyam_Sundar_FT_MLEop.pdf"
-        //   download
-          target="_blank"
-          rel="noopener noreferrer"
+          download
+        //   target="_blank"
+        //   rel="noopener noreferrer"
           className="bg-gradient-to-r from-green-500 to-blue-500 text-white py-2 px-4 rounded hover:bg-stone-300 transition duration-300"
         >
           Resume
