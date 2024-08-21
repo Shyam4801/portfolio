@@ -23,7 +23,7 @@ const Banner = () => {
          </p>
          {/* Download Button */}
         <a
-          href="/assets/Shyam_Sundar_FT_MLEop.pdf"
+          href="assets/Shyam_Sundar_FT_MLEop.pdf"
         //   download
           target="_blank"
           rel="noopener noreferrer"
@@ -77,7 +77,7 @@ const Banner = () => {
       
       <div className="flex-shrink-0 relative w-1/2 ml-auto"> {/* 50% width */}
         <img 
-          src="/assets/myself.JPG" 
+          src="assets/myself.JPG" 
           alt="Your Photo" 
           className="w-full h-auto object-cover rounded-lg shadow-lg transform scale-75"
         />

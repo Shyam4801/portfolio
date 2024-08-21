@@ -6,7 +6,7 @@ const Header = () => {
         <div className="container mx-auto flex justify-between items-center py-4 px-6 w-full">
           
           <img 
-            src="/assets/sign.png" 
+            src="assets/sign.png" 
             alt="Your Logo" 
             className="w-32 h-auto object-cover rounded-lg shadow-lg"
           />
