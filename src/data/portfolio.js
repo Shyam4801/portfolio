@@ -37,7 +37,7 @@ export default [
    {
       title: 'Splitwise Clone',
       imgUrl: 'assets/splitwiselogo.png',
-      stack: ['React', 'Node', 'Express', 'PostgreSQL'],
+      stack: ['React', 'Node', 'Express', 'MongoDB'],
       link: 'https://github.com/Shyam4801/splitwise-clone',
       description: 'A clone of the popular expense-sharing app, Splitwise, built with modern web technologies.',
    },
