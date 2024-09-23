@@ -25,7 +25,7 @@ export default [
 		title: "Machine Learning Software Developer",
 		duration: '2.5 years',
 		details:
-			'I worked for an embedded camera products company wherein my primary responsibilities were to develop and deploy SOTA Deep learning models on low compute Edge platforms. I have also spearheaded numerous data sciemce initiatives charting out end to end solutions from building data pipelines to data storytelling to the respective stakeholders. ',
+			'I worked for an embedded camera products company wherein my primary responsibilities were to develop and deploy SOTA Deep learning models on low compute Edge platforms. I have also spearheaded numerous data science initiatives charting out end to end solutions from building data pipelines to data storytelling to the respective stakeholders. ',
 	},
 	{
 		year: 'March 2019',
