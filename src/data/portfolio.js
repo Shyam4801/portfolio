@@ -7,27 +7,6 @@ export default [
       description: 'A project implementing Multi Agent Rollout for Bayesian Optimization. This approach enhances the efficiency of traditional Bayesian Optimization methods.',
    },
    {
-      title: 'Price optimization',
-      imgUrl: 'assets/download.png',
-      stack: ['Python'],
-      link: 'https://github.com/Shyam4801/price_optimization/tree/main',
-      description: 'An implementation of price optimization algorithms to maximize revenue while considering market dynamics and consumer behavior.',
-   },
-   {
-      title: 'Multi-echelon Inventory Optimization',
-      imgUrl: 'assets/beer_game_slide.jpg',
-      stack: ['Python'],
-      link: '',
-      description: 'A project focused on optimizing inventory levels across multiple echelons, improving supply chain efficiency.',
-   },
-   {
-      title: 'Symbolic Deep RL',
-      imgUrl: 'assets/Z09aOF.gif',
-      stack: ['Python'],
-      link: '',
-      description: 'An exploration of symbolic deep reinforcement learning, aiming to bridge the gap between symbolic and deep learning methods.',
-   },
-   {
       title: 'Rollout Acquisition function for Efficient Bayesian Optimization',
       imgUrl: 'assets/8hmodb.png',
       stack: ['Python'],
@@ -49,6 +28,13 @@ export default [
       description: 'An implementation of a custom B+ tree for efficient product catalog search, enhancing performance and scalability.',
    },
    {
+      title: 'Price optimization',
+      imgUrl: 'assets/download.png',
+      stack: ['Python'],
+      link: 'https://github.com/Shyam4801/price_optimization/tree/main',
+      description: 'An implementation of price optimization algorithms to maximize revenue while considering market dynamics and consumer behavior.',
+   },
+   {
       title: 'Graph algorithm visualizer',
       imgUrl: 'assets/graphviz-ezgif.com-video-to-gif-converter.gif',
       stack: ['TypeScript', 'React','Next.js','Tailwind'],
@@ -61,6 +47,20 @@ export default [
       stack: ['Python', 'Pytorch', 'Flask', 'React', 'PostgreSQL'],
       link: 'https://github.com/Shyam4801/two_tower_rec',
       description: 'A two tower recommendation system built with Pytorch, trained on the MovieLens dataset.',
+   },
+   {
+      title: 'Multi-echelon Inventory Optimization',
+      imgUrl: 'assets/beer_game_slide.jpg',
+      stack: ['Python'],
+      link: '',
+      description: 'A project focused on optimizing inventory levels across multiple echelons, improving supply chain efficiency.',
+   },
+   {
+      title: 'Symbolic Deep RL',
+      imgUrl: 'assets/Z09aOF.gif',
+      stack: ['Python'],
+      link: '',
+      description: 'An exploration of symbolic deep reinforcement learning, aiming to bridge the gap between symbolic and deep learning methods.',
    },
 
    
